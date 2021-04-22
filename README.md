@@ -6,5 +6,5 @@ To maintain stability, BIGG is equipped with it's own AMM that utilizes [Curve](
 
 ## Deployments
 
-Beluga BIGG/BNB LP: https://bscscan.com/address/TBD
-BIGG/BNB Pool: https://bscscan.com/address/TBD
+Beluga BIGG/BNB LP: https://bscscan.com/address/0xb97e6634a625c0c162d3bd13fba182cc3a109330
+BIGG/BNB Pool: https://bscscan.com/address/0x915305bFc541B3535d4df4917Cb999404a52CFFF
