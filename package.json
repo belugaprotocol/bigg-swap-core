@@ -1,0 +1,27 @@
+{
+  "name": "bigg-swap-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belugaprotocol/bigg-swap-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "3.4.1",
+    "@openzeppelin/contracts-upgradeable": "^3.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/belugaprotocol/bigg-swap-core/issues"
+  },
+  "homepage": "https://github.com/belugaprotocol/bigg-swap-core#readme"
+}
